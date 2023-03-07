@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/influxdata/influxdb-client-go/v2 v2.6.0
-	golang.org/x/net v0.0.0-20211215060638-4ddde0e984e9
+	golang.org/x/net v0.7.0
 )
 
 require (
